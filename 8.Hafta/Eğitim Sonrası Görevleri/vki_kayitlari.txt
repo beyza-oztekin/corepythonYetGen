@@ -1,0 +1,2 @@
+beyza, Yaş: 23, Boy: 1.62, Kilo: 62.0, VKI: 23.62, Sınıf: Normal kilolu
+ahmet, Yaş: 23, Boy: 175.0, Kilo: 89.0, VKI: 0.00, Sınıf: Zayıf
